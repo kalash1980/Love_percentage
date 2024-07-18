@@ -1,2 +1,2 @@
-# Love_percentage
-It is a code that calculates your love percentage with your loved once.
+# Tip_calculator
+It is a code tthat helps you calculate and split your bill accordingly
